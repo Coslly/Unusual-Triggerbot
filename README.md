@@ -1,6 +1,6 @@
-# Unusual-Triggerbot
+# 😳Unusual-Triggerbot
 A triggerbot that can be used in any game.
-# Features
+# 😘Features
 - External
 - C++ Build in Release
 - Any game can be used
